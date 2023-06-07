@@ -1,0 +1,1 @@
+(function(n,r,o){"use strict";var a={onLoad:function(){o.FluxDispatcher.subscribe("DOWNLOAD_FILE",function(){for(var t=arguments.length,u=new Array(t),e=0;e<t;e++)u[e]=arguments[e];return r.logger.log("MAYBE IT WORKED??",...u)})},onUnload:function(){}};return n.default=a,Object.defineProperty(n,"__esModule",{value:!0}),n})({},vendetta,vendetta.metro.common);
