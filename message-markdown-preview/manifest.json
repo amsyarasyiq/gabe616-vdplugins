@@ -1,1 +1,1 @@
-{"name":"MessageMarkdownPreview","description":"Preview markdown when typing a message","authors":[{"name":"nexpid","id":"853550207039832084"}],"main":"index.js","vendetta":{"icon":"ic_eye"},"hash":"155152e5cfabbc3053a812c4f64efbc6dfeb6f5e56385f7afecf2ad547387793"}
+{"name":"MessageMarkdownPreview","description":"Preview markdown when typing a message","authors":[{"name":"nexpid","id":"853550207039832084"},{"name":"pylix","id":"492949202121261067"}],"main":"index.js","vendetta":{"icon":"ic_eye"},"hash":"8617a167f6d5c8b749746428976c530cc04df507aeb019e036f019ec549825c6"}
